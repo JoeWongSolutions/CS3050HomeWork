@@ -1,0 +1,18 @@
+We have the following people in alphabetical order:
+Anna	20
+Ben	4
+Gary	10
+Jane	2
+Mary	12
+Sue	6
+
+They should be serviced in this order:
+Jane	2
+Ben	4
+Sue	6
+Gary	10
+Mary	12
+Anna	20
+
+
+The total wait time for all customers will be 130 minutes.

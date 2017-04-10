@@ -1,0 +1,6 @@
+Ben  4
+Sue 6
+Mary 12
+Anna 20
+Gary 10
+Jane 2
